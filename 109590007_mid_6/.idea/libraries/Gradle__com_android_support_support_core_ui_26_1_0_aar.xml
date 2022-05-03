@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui:26.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c13ddf09effe898a5a02df3ebeb5021f/transformed/support-core-ui-26.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../androidGameV2.4/caches/transforms-3/c37c30d4b9b5b33d1317c43f087f6087/transformed/support-core-ui-26.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../androidGameV2.4/caches/transforms-3/c37c30d4b9b5b33d1317c43f087f6087/transformed/support-core-ui-26.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../androidGameV2.4/caches/transforms-3/c37c30d4b9b5b33d1317c43f087f6087/transformed/support-core-ui-26.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../androidGameV2.4/caches/modules-2/files-2.1/com.android.support/support-core-ui/26.1.0/4d52cef4a24bf9939de1d256ca9f0974c6e636a4/support-core-ui-26.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

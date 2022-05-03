@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-fragment:26.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7adbc309af27bc82cae88457fc536b07/transformed/support-fragment-26.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../androidGameV2.4/caches/transforms-3/b5cdb92885fb67ad9c1e6af0cc05f743/transformed/support-fragment-26.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../androidGameV2.4/caches/transforms-3/b5cdb92885fb67ad9c1e6af0cc05f743/transformed/support-fragment-26.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../androidGameV2.4/caches/transforms-3/b5cdb92885fb67ad9c1e6af0cc05f743/transformed/support-fragment-26.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../androidGameV2.4/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
